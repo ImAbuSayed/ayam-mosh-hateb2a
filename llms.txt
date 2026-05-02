@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في سكون الليل
+> قلبي ينادي لك بلا دليل
+> روحي تذوب في عيونك يا غرام
+> يا نبض شوقي من قبل الكلام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
